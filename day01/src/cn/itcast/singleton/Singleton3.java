@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.itcast.singleton;
 
 /**
  * 双重校验

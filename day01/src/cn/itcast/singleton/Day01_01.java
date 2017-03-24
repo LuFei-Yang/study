@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.itcast.singleton;
 
 /**
  * 单例模式学习

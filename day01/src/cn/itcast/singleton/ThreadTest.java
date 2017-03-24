@@ -1,4 +1,4 @@
-package cn.itcast;
+package cn.itcast.singleton;
 
 /**
  * Created by ASUS on 2017/3/22.

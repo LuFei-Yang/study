@@ -1,4 +1,4 @@
-package cn.observer;
+package cn.itcast.observer;
 
 import java.util.ArrayList;
 import java.util.List;

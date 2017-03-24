@@ -1,4 +1,4 @@
-package cn.observer;
+package cn.itcast.observer;
 
 /**
  * Created by ASUS on 2017/3/23.
