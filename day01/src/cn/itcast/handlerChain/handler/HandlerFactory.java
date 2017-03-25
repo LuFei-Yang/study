@@ -6,6 +6,7 @@ package cn.itcast.handlerChain.handler;
  */
 public class HandlerFactory {
     public static PriceHandler getHandler(){
+        //创建多个实现类市里
         PriceHandler sales = new Sales();
         PriceHandler manager = new Manager();
         PriceHandler director = new Director();
